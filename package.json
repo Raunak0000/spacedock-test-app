@@ -1,0 +1,6 @@
+{
+    "name": "spacedock-test",
+    "scripts": {
+        "start": "node server.js"
+    }
+}
